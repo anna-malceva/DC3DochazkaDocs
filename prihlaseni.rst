@@ -7,6 +7,9 @@ Přihlášení do aplikace
   
 Přihlášení pomocí jména a hesla
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Každý uživatel má přidělené uživatelské jméno a heslo pomocí kterého lze se přihlásit do aplikace.
+.. note:: Nikdy nikomu nesdělujte přihlašovací údaje k vašemu uživatelskému účtu.
+Přihlášení do aplikace lze provést na následující obrazovce (je dostupná na `adrese <https://dochazka.datacentrum.cz/dtc/login>`__).
 
 Vícefaktorové ověření
 -------------------------
